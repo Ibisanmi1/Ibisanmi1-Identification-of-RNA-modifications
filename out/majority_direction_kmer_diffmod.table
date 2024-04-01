@@ -1,0 +1,1 @@
+id,position,kmer,diff_mod_rate_KO_vs_WT,pval_KO_vs_WT,z_score_KO_vs_WT,mod_rate_KO-rep1,mod_rate_WT-rep1,coverage_KO-rep1,coverage_WT-rep1,mu_unmod,mu_mod,sigma2_unmod,sigma2_mod,conf_mu_unmod,conf_mu_mod,mod_assignment,t-test

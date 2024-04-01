@@ -1,0 +1,17 @@
+notes: Pairwise comparison without replicates with default parameter setting.
+
+data:
+    KO:
+        rep1: ./data/HEK293T-METTL3-KO-rep1/dataprep
+    WT:
+        rep1: ./data/HEK293T-WT-rep1/dataprep    
+    
+paths:
+    model_kmer: ./db/model_kmer.csv
+    out_dir: ./out
+
+method:
+    prefiltering:
+        method: t-test
+        threshold: 0.1
+
